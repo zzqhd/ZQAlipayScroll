@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ZQAlipayScrollDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7ADE48351F7A407E00A5C6FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7ADE484E1F7A407F00A5C6FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7ADE48591F7A407F00A5C6FD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
